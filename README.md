@@ -1,5 +1,5 @@
 # arithmetic-operations-sample-fastapi
-A Fastapi sample project for simple arithmetic operations
+A Fastapi sample project for simple arithmetic operations. Requires Python 3.7+
 
 To start the project
 ----------
